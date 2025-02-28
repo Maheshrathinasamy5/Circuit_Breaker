@@ -1,0 +1,2 @@
+git add .
+[A[A[C[B[C[C[C[C[CThis is my message
